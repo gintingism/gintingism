@@ -4,16 +4,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Translating+corporate+operational+chaos+into+resilient+systems.;Slashing+weekly+manual+toil+from+2+days+to+20+mins+via+RPA.;Defending+1%2C200%2B+bank+branch+pins+from+vanishing+on+Google+Maps.;Turning+caffeine+into+clean+3NF+schemas+and+seamless+user+flows.;Yes%2C+the+code+is+in+private.+No%2C+the+server+hasn't+melted." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=1100&color=38BDF8&center=true&vCenter=true&width=660&lines=Translating+corporate+operational+chaos+into+resilient+systems.;Slashing+weekly+manual+toil+from+2+days+to+20+mins+via+RPA.;Governing+1%2C200%2B+nationwide+enterprise+endpoints+on+Google+Maps.;Bridging+multi-tier+architectures+with+UX+so+users+don't+rage-quit.;Yes%2C+the+code+is+in+private.+No%2C+production+hasn't+melted+yet." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
-    <img src="https://img.shields.io/badge/Scale-1%2C200%2B_Branch_Pins_Governed-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Enterprise Scale" />
+    <img src="https://img.shields.io/badge/Enterprise_Scale-1%2C200%2B_Branch_Pins_Governed-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Enterprise Scale" />
   </a>
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
-    <img src="https://img.shields.io/badge/Efficiency-97%25_Manual_Effort_Cut-059669?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Automation" />
+    <img src="https://img.shields.io/badge/Process_Automation-97%25_Manual_Effort_Cut-059669?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Automation" />
   </a>
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
     <img src="https://img.shields.io/badge/Native_Mobile-App_Store_Shipped-EA580C?style=for-the-badge&logo=apple&logoColor=white" alt="Shipped iOS" />
@@ -25,57 +25,50 @@
 
 <br />
 
-<pre>
-system_config:
-  developer: "Bonifasius Toto Neguisa Ginting"
-  role: "Product Owner & Enterprise Systems Architect"
-  core_directive: "Eliminate repetitive human toil before anyone schedules another sync meeting."
-  architecture_stack: ["Three-Tier", "Relational Normalization (3NF)", "Low-Code", "RPA Automation"]
-  runtime_status: "Operational — keeping production databases happy and user journeys friction-free."
-</pre>
+> **Product Owner & Enterprise Systems Architect** dedicated to translating legacy operational complexity into high-throughput software and stopping administrative bottlenecks before someone schedules a 45-minute sync about them. Experienced in bridging scalable multi-tier backends, relational data integrity, and business automation with human-centered product flows across nationwide banking infrastructure and native mobile ecosystems.
 
 <br />
 
-### 🏛️ Engineering Deep Dives & Architectural Portfolio
+### 🏛️ Core Architecture & Enterprise Domains
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">🏦 Enterprise Low-Code & Automation</h4>
-      <p><b>Bank Central Asia (SIJABI Super App & RPA)</b></p>
+      <p><b>Platform Scale & Process Optimization</b></p>
       <ul>
-        <li>Product Owner for <b>SIJABI Super App</b>, driving roadmap rollout for ~1,000 branch network personnel.</li>
-        <li>Architected OutSystems applications, deploying critical operational modules <b>10x faster</b> than legacy cycles.</li>
-        <li>Engineered RPA and ticketing automation, cutting weekly administration from <b>2 full workdays to 20 minutes</b> (97% reduction).</li>
+        <li>Product Owner for flagship enterprise banking software, driving roadmap execution and adoption for ~1,000 operational network staff.</li>
+        <li>Architected mission-critical OutSystems low-code applications, deploying core modules <b>10x faster</b> than legacy cycles under strict regulatory compliance.</li>
+        <li>Engineered RPA pipelines and ticketing automations, cutting weekly administrative processing from <b>2 full workdays down to 20 minutes</b> (97% toil reduction).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="left">📍 Geospatial & Anti-Fraud Infrastructure</h4>
-      <p><b>Google Indonesia Strategic Partnership</b></p>
+      <h4 align="left">📍 Geospatial Infrastructure & Security</h4>
+      <p><b>Digital Presence & Anti-Fraud Governance</b></p>
       <ul>
-        <li>Governed pin coordinates, APIs, and metadata across <b>1,200+ BCA branch & ATM listings</b> nationwide.</li>
-        <li>Recognized in <b>BCA Smart Solution Reward Program (SSRP)</b> for eliminating 50+ malicious coordinate alterations.</li>
-        <li>Conducted 30+ feasibility studies combining macroeconomic stats to deploy 5 new branches and 20+ ATMs.</li>
+        <li>Governed geospatial metadata, API ingestion, and pin placements across <b>1,200+ physical branch & ATM profiles</b> nationwide via strategic collaboration with Google Indonesia.</li>
+        <li>Recognized in the <b>BCA Smart Solution Reward Program (SSRP)</b> for architecting an anti-fraud pipeline that eliminated 50+ malicious coordinate hijackings.</li>
+        <li>Synthesized macroeconomic datasets and spatial footfall analytics to steer feasibility studies for 5 new physical branches and 20+ automated kiosks.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="left">📐 Systems Analysis & Multi-Tier Modeling</h4>
-      <p><b>Tek Tek-in & Kindness Information Systems</b></p>
+      <h4 align="left">🗄️ Scalable Database & Systems Engineering</h4>
+      <p><b>Data Modeling & Multi-Tier Architecture</b></p>
       <ul>
-        <li><b>Tek Tek-in:</b> Modeled hyperlocal transit commerce with FCSD, Domain Class Diagrams, and mobile user flows.</li>
-        <li><b>Kindness IS:</b> Designed complete <b>Three-Tier Architecture</b>, CRC cards, and Three-Layer Sequence Diagrams with dedicated Data Access (DA) layers.</li>
-        <li><b>Bersihin Yuk:</b> Structured on-demand service workflows with virtual wallet integration (KlikWallet).</li>
+        <li>Engineered robust <b>Three-Tier Architecture</b> blueprints with decoupled Data Access (DA) layers to guarantee high transactional fault tolerance.</li>
+        <li>Designed complex relational schemas subjected to strict normalization from <b>UNF down to 3NF</b>, preserving transactional integrity across high-volume booking and payment workflows.</li>
+        <li>Modeled advanced database mechanics including <b>XOR ARC relationships</b>, temporal/historical price tracking, and vertical vs. horizontal table partitioning strategies.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="left">🗄️ Database Architecture & Normalization</h4>
-      <p><b>Traveloka & Supply Distribution Systems</b></p>
+      <h4 align="left">📱 Native Mobile & Ergonomic UX</h4>
+      <p><b>Apple Developer Academy & Mobile Lab</b></p>
       <ul>
-        <li><b>Traveloka Ticketing:</b> Modeled Exclusive OR (XOR) <b>ARC relationships</b>, dynamic historical pricing, and vertical table partitioning.</li>
-        <li>Structured strict normalization pipelines from <b>UNF to 3NF</b> on high-volume airline booking invoices.</li>
-        <li><b>Liem's Warehouse:</b> Modeled relational schemas with master-detail constraints and complex subquery queries.</li>
+        <li>Apple Developer Academy Alum (C5) with shipped native iOS products released live on the public <b>App Store and TestFlight</b>.</li>
+        <li>Integrated spatial 3D interactions and ARKit scene tracking, validating interactive usability loops across test cohorts of 50+ users.</li>
+        <li>Enforced Apple Human Interface Guidelines (HIG) to cut cognitive load, refine dark mode views, and eliminate interface rage-quits.</li>
       </ul>
     </td>
   </tr>
@@ -92,14 +85,14 @@ system_config:
 <br />
 
 <details>
-  <summary><b>🔍 Click to expand Core Competencies & Methodology Breakdown</b></summary>
+  <summary><b>🔍 Core Competencies & Methodology Breakdown (Click to expand)</b></summary>
   <br />
 
-* **Enterprise & Platform Engineering:** OutSystems Platform, Robotic Process Automation (RPA), Google Business Profile Manager, Google Maps Platform API.
-* **System Architecture & Analysis:** Three-Tier Architecture, Unified Modeling Language (SSD, Sequence, Class, Activity Diagrams, CRC Cards).
-* **Database & Data Modeling:** Complex Relational Schemas, 3NF Normalization, ARC Relationships, Temporal & Historical Modeling, Partitioning Strategies.
-* **Product & Quality Governance:** Product Ownership (PO), Agile/Scrum Roadmapping, User Acceptance Testing (UAT) Checklists, Human Interface Guidelines (HIG).
-* **Modern Web & Mobile:** Swift, SwiftUI, iOS SDK, Next.js (App Router), TypeScript, Python, FastAPI, Tailwind CSS.
+* **Enterprise & Platform Engineering:** OutSystems Platform Architecture, Robotic Process Automation (RPA), Google Business Profile Manager, Google Maps Platform APIs.
+* **System Architecture & Modeling:** Three-Tier Infrastructure, Object-Oriented Analysis & Design, UML Blueprints (Sequence, Class, Activity, SSD, CRC Responsibility Cards).
+* **Database & Data Architecture:** Relational Schema Architecture, 3NF Normalization, Historical Data Modeling, Query Performance Tuning, Table Partitioning.
+* **Product Management & Governance:** Product Ownership (PO), Agile/Scrum Roadmapping, User Acceptance Testing (UAT) Governance, Apple HIG Standards.
+* **Modern Web & Native Apps:** Swift, SwiftUI, iOS SDK, Next.js (App Router), TypeScript, Python, FastAPI, Tailwind CSS.
 </details>
 
 ---
@@ -114,7 +107,7 @@ system_config:
 
 ---
 
-### 🌐 Direct Transmission Channels
+### 🌐 Transmission Channels
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/" target="_blank">
@@ -133,5 +126,5 @@ system_config:
 <br />
 
 <div align="center">
-  <sub>Built for precision, enterprise reliability, and human-centered ergonomics.</sub>
+  <sub>Engineered with precision. Optimized for enterprise reliability, zero broken migrations, and zero redundant meetings.</sub>
 </div>
