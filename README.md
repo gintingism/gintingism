@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Native_Mobile-App_Store_Shipped-EA580C?style=for-the-badge&logo=apple&logoColor=white" alt="Shipped iOS" />
   </a>
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
-    <img src="https://img.shields.io/badge/Academic_Merit-High_Honors_3.90_GPA-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Distinction" />
+    <img src="https://img.shields.io/badge/Data_Architecture-3NF_Relational_Design-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" alt="Data Architecture" />
   </a>
 </div>
 
@@ -124,7 +124,6 @@
 </div>
 
 <br />
-
 <div align="center">
   <sub>Engineered with precision. Optimized for enterprise reliability, zero broken migrations, and zero redundant meetings.</sub>
 </div>
