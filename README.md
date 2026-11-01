@@ -1,41 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,40:111827,75:1E293B,100:0284C7&height=220&section=header&text=BONIFASIUS%20GINTING&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Systems%20Architect%20%E2%80%A2%20Product%20Owner%20%E2%80%A2%20Systems%20Builder&descFontSize=16&descAlignY=58" width="100%" alt="Header Banner" />
+
+<a href="https://github.com/gintingism">
+  <img src="https://raw.githubusercontent.com/gintingism/BTNG-website/main/public/images/readme-hero-banner.svg" alt="Bonifasius Toto Neguisa Ginting" width="100%" />
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=f0f6fc" alt="LinkedIn" /></a>
+  <a href="mailto:bonifasiusto@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=f0f6fc" alt="Email" /></a>
+  <a href="https://medium.com/@bonifasiustotoneguisaginting"><img src="https://img.shields.io/badge/Medium-0d1117?style=flat-square&logo=medium&logoColor=f0f6fc" alt="Medium" /></a>
+  <a href="https://github.com/gintingism/BTNG-website"><img src="https://img.shields.io/badge/Portfolio%20Repo-0d1117?style=flat-square&logo=github&logoColor=f0f6fc" alt="Portfolio" /></a>
+</p>
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=1100&color=38BDF8&center=true&vCenter=true&width=660&lines=Translating+corporate+operational+chaos+into+resilient+systems.;Slashing+weekly+manual+toil+from+2+days+to+20+mins+via+RPA.;Governing+1%2C200%2B+nationwide+enterprise+endpoints+on+Google+Maps.;Bridging+multi-tier+architectures+with+UX+so+users+don't+rage-quit.;Yes%2C+the+code+is+in+private.+No%2C+production+hasn't+melted+yet." alt="Typing SVG" />
-  </a>
-</div>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
-    <img src="https://img.shields.io/badge/Enterprise_Scale-1%2C200%2B_Branch_Pins_Governed-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Enterprise Scale" />
-  </a>
-  <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
-    <img src="https://img.shields.io/badge/Process_Automation-97%25_Manual_Effort_Cut-059669?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Automation" />
-  </a>
-  <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
-    <img src="https://img.shields.io/badge/Native_Mobile-App_Store_Shipped-EA580C?style=for-the-badge&logo=apple&logoColor=white" alt="Shipped iOS" />
-  </a>
-  <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/">
-    <img src="https://img.shields.io/badge/Data_Architecture-3NF_Relational_Design-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" alt="Data Architecture" />
-  </a>
-</div>
+### Executive Overview
 
-<br />
+> **Product Owner & Enterprise Systems Architect** bridging large-scale banking automation, relational data integrity, and Apple-grade interface ergonomics. Experienced in translating complex operational bottlenecks into high-throughput systems across nationwide banking infrastructure and native mobile ecosystems.
 
-> **Product Owner & Enterprise Systems Architect** dedicated to translating legacy operational complexity into high-throughput software and stopping administrative bottlenecks before someone schedules a 45-minute sync about them. Experienced in bridging scalable multi-tier backends, relational data integrity, and business automation with human-centered product flows across nationwide banking infrastructure and native mobile ecosystems.
+* **Enterprise Banking & Automation**: At **Bank Central Asia (BCA)**, I serve as Product Owner for enterprise low-code systems using OutSystems Reactive (4LC), scaling core operational modules for **~1,000 operational network staff**. I architected unattended Robotic Process Automation (RPA) pipelines that compressed 48 hours of weekly administrative backlogs to **20 minutes** (**97% toil reduction**).
+* **Geospatial Infrastructure & Security**: Governed metadata, API ingestion, and pin integrity across **1,200+ physical BCA branch & ATM profiles** nationwide via strategic collaboration with Google Indonesia. Recognized in the **BCA Smart Solution Reward Program (SSRP) 2024** for architecting anti-fraud pipelines that eliminated 50+ coordinate hijackings.
+* **Apple Human Interface Discipline**: As an alumnus of the **Apple Developer Academy (Cohort 5, Tangerang)**, I combine enterprise multi-tier architecture with the tactile ergonomics and cognitive simplicity of the **Apple Human Interface Guidelines (HIG)**.
 
-<br />
+---
 
-### 🏛️ Core Architecture & Enterprise Domains
+### Verified Production Benchmarks
+
+| Scope & Domain | Technology Stack | Audited Production Outcome |
+| :--- | :--- | :--- |
+| **Geospatial Location Security** | Google Maps Platform & Google Business Profile | Governed **1,200+** physical branch & ATM profiles; engineered anti-fraud pipeline mitigating 50+ coordinate hijackings *(BCA SSRP 2024 Participant)*. |
+| **Robotic Process Automation** | Enterprise Unattended RPA Automation | Compressed 48 hours of weekly manual administrative queues down to **20 minutes** (**97% toil reduction**). |
+| **Enterprise Banking Software** | OutSystems Reactive (4LC) & Core Banking APIs | Product Owner for nationwide operational systems serving **~1,000 operational network staff**. |
+| **Agentic AI & Developer Tooling** | Python, YAML Frontmatter, MCP SDK | Built **SkillForge** (`gintingism/skillforge`), a CLI and Model Context Protocol server for portable agent skills across Claude Code, Cursor, and Copilot. |
+| **Mobile & Spatial Engineering** | Swift, ARKit, RealityKit & Apple HIG | Shipped **Carita: Tuappaka Sisarikbattang** to the **Apple App Store**, validated across 50+ parents and children with 88% engagement uplift. |
+| **Academic Standing** | BINUS University (Business Information Tech) | **3.90 / 4.00 Cumulative GPA** (High Distinction), Dean's High Honor Roll, specialization in 3NF Boyce-Codd database architecture. |
+
+---
+
+### Core Architecture & Enterprise Domains
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="left">🏦 Enterprise Low-Code & Automation</h4>
-      <p><b>Platform Scale & Process Optimization</b></p>
+      <h4><b>01 / Enterprise Low-Code &amp; Automation</b></h4>
+      <p><b>Platform Scale &amp; Process Optimization</b></p>
       <ul>
         <li>Product Owner for flagship enterprise banking software, driving roadmap execution and adoption for ~1,000 operational network staff.</li>
         <li>Architected mission-critical OutSystems low-code applications, deploying core modules <b>10x faster</b> than legacy cycles under strict regulatory compliance.</li>
@@ -43,10 +52,10 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="left">📍 Geospatial Infrastructure & Security</h4>
-      <p><b>Digital Presence & Anti-Fraud Governance</b></p>
+      <h4><b>02 / Geospatial Infrastructure &amp; Security</b></h4>
+      <p><b>Digital Presence &amp; Anti-Fraud Governance</b></p>
       <ul>
-        <li>Governed geospatial metadata, API ingestion, and pin placements across <b>1,200+ physical branch & ATM profiles</b> nationwide via strategic collaboration with Google Indonesia.</li>
+        <li>Governed geospatial metadata, API ingestion, and pin placements across <b>1,200+ physical branch &amp; ATM profiles</b> nationwide via strategic collaboration with Google Indonesia.</li>
         <li>Recognized in the <b>BCA Smart Solution Reward Program (SSRP)</b> for architecting an anti-fraud pipeline that eliminated 50+ malicious coordinate hijackings.</li>
         <li>Synthesized macroeconomic datasets and spatial footfall analytics to steer feasibility studies for 5 new physical branches and 20+ automated kiosks.</li>
       </ul>
@@ -54,8 +63,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="left">🗄️ Scalable Database & Systems Engineering</h4>
-      <p><b>Data Modeling & Multi-Tier Architecture</b></p>
+      <h4><b>03 / Scalable Database &amp; Systems Engineering</b></h4>
+      <p><b>Data Modeling &amp; Multi-Tier Architecture</b></p>
       <ul>
         <li>Engineered robust <b>Three-Tier Architecture</b> blueprints with decoupled Data Access (DA) layers to guarantee high transactional fault tolerance.</li>
         <li>Designed complex relational schemas subjected to strict normalization from <b>UNF down to 3NF</b>, preserving transactional integrity across high-volume booking and payment workflows.</li>
@@ -63,67 +72,66 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="left">📱 Native Mobile & Ergonomic UX</h4>
-      <p><b>Apple Developer Academy & Mobile Lab</b></p>
+      <h4><b>04 / Native Mobile &amp; Ergonomic UX</b></h4>
+      <p><b>Apple Developer Academy &amp; Mobile Lab</b></p>
       <ul>
         <li>Apple Developer Academy Alum (C5) with shipped native iOS products released live on the public <b>App Store and TestFlight</b>.</li>
         <li>Integrated spatial 3D interactions and ARKit scene tracking, validating interactive usability loops across test cohorts of 50+ users.</li>
-        <li>Enforced Apple Human Interface Guidelines (HIG) to cut cognitive load, refine dark mode views, and eliminate interface rage-quits.</li>
+        <li>Enforced Apple Human Interface Guidelines (HIG) to cut cognitive load, refine dark mode views, and deliver frictionless user flows.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-### 🛠️ Technical Arsenal & Ecosystem
+### Selected Production Systems & Open Source
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,swift,py,fastapi,nextjs,react,ts,tailwind,postgres,git,docker,postman&theme=dark&perline=12" alt="Arsenal" />
-</div>
+* **[SkillForge](https://github.com/gintingism/skillforge)** (`agent-skillforge`) — *CLI & Model Context Protocol (MCP) Runtime for Portable Agent Skills*  
+  Open-source, dependency-light developer CLI and runtime for creating, validating, discovering, and packaging portable `SKILL.md` agent skills. Features an integrated Model Context Protocol (MCP) server exposing skills directly to AI coding agents across Claude Code, Cursor, and GitHub Copilot.  
+  *Stack: Python, YAML Frontmatter, MCP SDK, CLI Tooling.*
 
-<br />
+* **[Gintingmology v3.0](https://gintingmology-idx-stock-analyzer.vercel.app/)** — *IDX Quantitative Market Intelligence & Trading Terminal*  
+  Full-stack quantitative stock analytics SaaS platform translating Indonesia Stock Exchange (IDX) order flow into actionable trading signals. Features 5 integrated suites: Real-Time VSA Cockpit, Multi-Factor Quant Screener, 9-Sector & Macro Barometer, Swing Hub with Lot Sizing Calculator, and Dividend Aristocrats Radar.  
+  *Stack: Next.js, TypeScript, FastAPI (Pandas/NumPy), Groq LPU (Llama 3.3 70B), Google Gemini, Supabase PostgreSQL & RLS.*
 
-<details>
-  <summary><b>🔍 Core Competencies & Methodology Breakdown (Click to expand)</b></summary>
-  <br />
+* **[Jakarta Transit Pulse](https://jakarta-transit-pulse.vercel.app/)** — *Greater Jakarta Multi-Modal Transit Companion*  
+  Mobile-first public transit navigation web app unifying KRL Commuter Line, MRT Jakarta, LRT Jabodebek, and TransJakarta. Features Haversine coordinate proximity Geo-Alarms (Anti-Kebablasan) with offline Web Audio synthesis and Keep-Alive Lockscreen GPS tracking.  
+  *Stack: Next.js, React, TypeScript, Tailwind CSS, Web Audio API, Haversine Spherical Engine (98/100 Mobile Lighthouse Score).*
 
-* **Enterprise & Platform Engineering:** OutSystems Platform Architecture, Robotic Process Automation (RPA), Google Business Profile Manager, Google Maps Platform APIs.
-* **System Architecture & Modeling:** Three-Tier Infrastructure, Object-Oriented Analysis & Design, UML Blueprints (Sequence, Class, Activity, SSD, CRC Responsibility Cards).
-* **Database & Data Architecture:** Relational Schema Architecture, 3NF Normalization, Historical Data Modeling, Query Performance Tuning, Table Partitioning.
-* **Product Management & Governance:** Product Ownership (PO), Agile/Scrum Roadmapping, User Acceptance Testing (UAT) Governance, Apple HIG Standards.
-* **Modern Web & Native Apps:** Swift, SwiftUI, iOS SDK, Next.js (App Router), TypeScript, Python, FastAPI, Tailwind CSS.
-</details>
+* **[Carita: Tuappaka Sisarikbattang](https://drive.google.com/file/d/1Y5NIJ52YwPhJauLuHwzAukiZGBJnFhOx/view?usp=drive_link)** — *Augmented Reality Educational iOS App (Apple App Store)*  
+  Interactive folklore storytelling iOS app developed at Apple Developer Academy C5. Integrates physical card image tracking via ARKit and RealityKit with 3D mini-games to minimize passive child screen time. Shipped on the Apple App Store.  
+  *Stack: Swift, ARKit, RealityKit, Apple HIG.*
+
+* **[Enterprise Architecture & Database Blueprints](https://github.com/gintingism/BTNG-website)**  
+  Academic formal specifications including the *Kindness Platform* (Three-Tier OOAD separation of concerns) and *Traveloka Flight Booking Engine* (Third Normal Form relational model with ARC exclusive subtype constraints and immutable point-in-time fare snapshots).
 
 ---
 
-### 📊 Engineering Activity & Contribution Streak
+### Technical Competencies
 
-<div align="center">
-  <a href="https://github.com/gintingism">
-    <img src="https://streak-stats.demolab.com/?user=gintingism&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Activity Streak" />
-  </a>
-</div>
+* **Enterprise & Automation**: OutSystems Reactive (4-Layer Canvas), Unattended RPA, Core Banking APIs, Google Maps Platform
+* **Web, APIs & AI**: Next.js 14+ (App Router), TypeScript, Python, FastAPI (Pandas/NumPy), Groq LPU (Llama 3.3 70B), Google Gemini, Supabase (PostgreSQL & RLS)
+* **Mobile & Human Interface**: Swift, ARKit, RealityKit, Apple Human Interface Guidelines (HIG), Framer Motion, Lenis Smooth Inertia
+* **System Design & Modeling**: 3NF Relational DB (Boyce-Codd Normalization), XOR ARC Constraints, Three-Tier OOAD, Model Context Protocol (MCP), BPMN Workflows
 
 ---
 
-### 🌐 Transmission Channels
+### Published Insights (Medium)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://bonifasiusto.wixsite.com/portfoliowebsite" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Interactive_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:bonifasiusto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Direct_Ping-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+* [**Mastering UI/UX Design: A Beginner’s Guide (With Humor and a Dash of Sass)**](https://medium.com/@bonifasiustotoneguisaginting/mastering-ui-ux-design-a-beginners-guide-with-humor-and-a-dash-of-sass-33a68b202b6a)  
+  *Demystifying user journeys, interface ergonomics, and visual hierarchy with practical clarity.*
+* [**Unbelievably Simple Tips to Conquer OutSystems and Look Like a Pro**](https://medium.com/@bonifasiustotoneguisaginting/unbelievably-simple-tips-to-conquer-outsystems-and-look-like-a-pro-a7a6596da6ae)  
+  *Architectural discipline, aggregate efficiency, and clean 4LC modularity in enterprise low-code.*
+* [**Mastering Google Maps: Tips, Tricks, and a Touch of Sarcasm for the Modern Explorer**](https://medium.com/@bonifasiustotoneguisaginting/mastering-google-maps-tips-tricks-and-a-touch-of-sarcasm-for-the-modern-explorer-5b6722044a29)  
+  *Geospatial coordinate precision, fraud mitigation, and location footprint governance across 1,200+ physical touchpoints.*
 
-<br />
-<div align="center">
-  <sub>Engineered with precision. Optimized for enterprise reliability, zero broken migrations, and zero redundant meetings.</sub>
-</div>
+---
+
+### Direct Connect & Verification
+
+* **LinkedIn**: [linkedin.com/in/bonifasiustotoneguisaginting](https://www.linkedin.com/in/bonifasiustotoneguisaginting/)
+* **Email**: [bonifasiusto@gmail.com](mailto:bonifasiusto@gmail.com)
+* **Medium**: [medium.com/@bonifasiustotoneguisaginting](https://medium.com/@bonifasiustotoneguisaginting)
+* **Master UI/UX Portfolio Archive**: [Google Drive Archive](https://drive.google.com/drive/folders/1dFgPWLGKcCXHMw1Vx4MKnkntjkmcFYMx?usp=drive_link)
+* **Location Base**: Jakarta / Bekasi, Indonesia (WIB · UTC+7)
