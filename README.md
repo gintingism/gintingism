@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=f0f6fc" alt="LinkedIn" /></a>
   <a href="mailto:bonifasiusto@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=f0f6fc" alt="Email" /></a>
   <a href="https://medium.com/@bonifasiustotoneguisaginting"><img src="https://img.shields.io/badge/Medium-0d1117?style=flat-square&logo=medium&logoColor=f0f6fc" alt="Medium" /></a>
-  <a href="https://github.com/gintingism/BTNG-website"><img src="https://img.shields.io/badge/Portfolio%20Repo-0d1117?style=flat-square&logo=github&logoColor=f0f6fc" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/drive/folders/1dFgPWLGKcCXHMw1Vx4MKnkntjkmcFYMx?usp=drive_link"><img src="https://img.shields.io/badge/UI%2FUX%20Archive-Google%20Drive-0d1117?style=flat-square&logo=googledrive&logoColor=f0f6fc" alt="Drive Archive" /></a>
 </p>
 
 </div>
@@ -58,6 +58,9 @@
 * **[Carita: Tuappaka Sisarikbattang](https://drive.google.com/file/d/1Y5NIJ52YwPhJauLuHwzAukiZGBJnFhOx/view?usp=drive_link)**  
   *Augmented Reality Folklore iOS App (Apple App Store)*  
   Interactive folklore storytelling iOS app developed at Apple Developer Academy C5 linking physical story cards with real-time 3D scenes.
+
+* **[Enterprise Architecture & Database Blueprints](https://drive.google.com/drive/folders/1dFgPWLGKcCXHMw1Vx4MKnkntjkmcFYMx?usp=drive_link)**  
+  Academic formal specifications including the *Kindness Platform* (Three-Tier OOAD separation of concerns) and *Traveloka Flight Booking Engine* (Third Normal Form relational model with ARC exclusive subtype constraints and immutable point-in-time fare snapshots).
 
 ---
 
