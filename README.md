@@ -1,6 +1,14 @@
 <div align="center">
 
-[![Bonifasius Ginting](https://raw.githubusercontent.com/gintingism/gintingism/main/header.svg)](https://github.com/gintingism)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06080D,50:0B0F19,100:06080D&height=160&section=header&text=BONIFASIUS%20TOTO%20NEGUISA%20GINTING&fontSize=32&fontColor=ffffff&fontFamily=Plus%20Jakarta%20Sans&animation=fadeIn&fontAlignY=42&desc=Product%20Owner%20%26%20Systems%20Architect%20%E2%80%A2%20Bank%20Central%20Asia%20(BCA)&descFontSize=14&descColor=94a3b8&descAlignY=66" width="100%" alt="Bonifasius Ginting" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Product+Owner+%26+Systems+Architect+at+Bank+Central+Asia+(BCA);Governing+1%2C200%2B+Physical+BCA+Touchpoints+on+Google+Maps+(SSRP+2024);Compressing+48-Hour+Manual+Queues+to+20+Mins+via+Unattended+RPA;Apple+Developer+Academy+Alum+(Cohort+5)+%E2%80%A2+Carita+AR+on+App+Store;Creator+of+SkillForge+(Agentic+MCP)+%26+Gintingmology+v3.0+Quant" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=f0f6fc" alt="LinkedIn" /></a>
