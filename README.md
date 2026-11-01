@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06080D,50:0B0F19,100:06080D&height=160&section=header&text=BONIFASIUS%20TOTO%20NEGUISA%20GINTING&fontSize=32&fontColor=ffffff&fontFamily=Plus%20Jakarta%20Sans&animation=fadeIn&fontAlignY=42&desc=Product%20Owner%20%26%20Systems%20Architect%20%E2%80%A2%20Bank%20Central%20Asia%20(BCA)&descFontSize=14&descColor=94a3b8&descAlignY=66" width="100%" alt="Bonifasius Ginting" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06080D,50:0B0F19,100:06080D&height=160&section=header&text=BONIFASIUS%20TOTO%20NEGUISA%20GINTING&fontSize=32&fontColor=ffffff&fontFamily=Plus%20Jakarta%20Sans&animation=fadeIn&fontAlignY=42&desc=Product%20Owner%20and%20Systems%20Architect%20%E2%80%A2%20Bank%20Central%20Asia%20(BCA)&descFontSize=14&descColor=94a3b8&descAlignY=66" width="100%" alt="Bonifasius Ginting" />
 
 <br/>
 
