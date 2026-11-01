@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="auto">
+  <defs>
+    <!-- Smooth Shimmering Metallic Gradient Animation -->
+    <linearGradient id="shimmer-text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94a3b8" />
+      <stop offset="35%" stop-color="#f8fafc" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="65%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#94a3b8" />
+      <animate attributeName="x1" values="-100%; 100%" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%; 200%" dur="7s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Deep Luxury Matte Background -->
+    <linearGradient id="bg-canvas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="60%" stop-color="#080a10" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <!-- Floating Beam Accent -->
+    <linearGradient id="beam-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+      <animate attributeName="x1" values="-100%; 100%" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%; 200%" dur="4s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono-tag {
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.28em;
+      fill: #38bdf8;
+      opacity: 0;
+      animation: fadeIn 1s cubic-bezier(0.16, 1, 0.3, 1) 0.1s forwards;
+    }
+    .headline {
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Plus Jakarta Sans', sans-serif;
+      font-size: 34px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      fill: #ffffff;
+      opacity: 0;
+      animation: slideIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards;
+    }
+    .shimmer-word {
+      fill: url(#shimmer-text);
+    }
+    .subline {
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', sans-serif;
+      font-size: 13.5px;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      fill: #94a3b8;
+      opacity: 0;
+      animation: fadeIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards;
+    }
+    .border-stroke {
+      stroke: #1e293b;
+      stroke-width: 1;
+      opacity: 0.8;
+    }
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes slideIn {
+      0% { opacity: 0; transform: translateY(8px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <!-- Background Base Surface -->
+  <rect width="900" height="220" rx="14" fill="url(#bg-canvas)" />
+  <rect x="0.5" y="0.5" width="899" height="219" rx="13.5" fill="none" class="border-stroke" />
+
+  <!-- Animated Accent Beam on Top Border -->
+  <line x1="40" y1="1" x2="860" y2="1" stroke="url(#beam-line)" stroke-width="2" />
+
+  <!-- Pre-Header Monospace Tag -->
+  <g transform="translate(56, 48)">
+    <circle cx="5" cy="5" r="3.5" fill="#10b981">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="20" y="8.5" class="mono-tag">PRODUCT OWNER &amp; SYSTEMS ARCHITECT</text>
+  </g>
+
+  <!-- Main Identity Headline -->
+  <g transform="translate(56, 104)">
+    <text x="0" y="0" class="headline">
+      BONIFASIUS <tspan class="shimmer-word">GINTING</tspan>
+    </text>
+  </g>
+
+  <!-- Hairline Divider with Subtle Motion -->
+  <line x1="56" y1="130" x2="844" y2="130" stroke="#1e293b" stroke-width="1" />
+  <line x1="56" y1="130" x2="350" y2="130" stroke="url(#shimmer-text)" stroke-width="1" opacity="0.6" />
+
+  <!-- Subtitle Affiliations -->
+  <g transform="translate(56, 172)">
+    <text x="0" y="0" class="subline">
+      Bank Central Asia (BCA) &bull; Apple Developer Academy (Cohort 5) &bull; BINUS University (GPA 3.90)
+    </text>
+  </g>
+</svg>
