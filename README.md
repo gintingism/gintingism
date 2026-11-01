@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/gintingism">
-  <img src="./header.svg" width="100%" alt="Bonifasius Ginting" />
-</a>
-
-<br/><br/>
+[![Bonifasius Ginting](https://raw.githubusercontent.com/gintingism/gintingism/main/header.svg)](https://github.com/gintingism)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bonifasiustotoneguisaginting/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=f0f6fc" alt="LinkedIn" /></a>
